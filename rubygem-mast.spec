@@ -4,7 +4,7 @@
 #
 Name     : rubygem-mast
 Version  : 1.4.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/mast-1.4.0.gem
 Source0  : https://rubygems.org/downloads/mast-1.4.0.gem
 Summary  : No detailed summary available
